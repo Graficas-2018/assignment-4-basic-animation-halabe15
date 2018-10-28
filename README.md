@@ -10,3 +10,9 @@ Rubric:
 2. Define the keyframe animations needed.
 3. Apply the animations to the correct attributes of the model.
 4. The object is animated as if it was walking.
+
+**NOTES**
+1. The model is not moving as expected: it is not moving in a circle, but in a square.
+2. The rotation of the model is missing.
+
+**Grade: 80**
